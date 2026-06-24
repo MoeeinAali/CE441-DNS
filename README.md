@@ -1,5 +1,5 @@
-# CE{Code of Course}-{Short Name of Course}
-Solutions to Prof. {Name of Prof}'s CE{Code of Course}: {Full Name of Course} (Sharif University of Technology - {Semester} {Year}) Assignments
+# CE441-DNS
+Solutions to Dr. Kharrazi and Dr. Amini's CE441: Data & Network Security (Sharif University of Technology - Spring 2026) Assignments
 
 ## Table of Contents
 
