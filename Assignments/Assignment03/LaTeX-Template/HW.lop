@@ -1,0 +1,23 @@
+\contentsline {listofproblems}{\numberline {}مسئله 1}{1}{Doc-Start}%
+\contentsline {listofproblems}{\numberline {}مسئله 2}{3}{Item.2}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax رمزنگاری RSA}{3}{section*.1}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax تبادل کلید Diffie-Hellman}{4}{section*.5}%
+\contentsline {listofproblems}{\numberline {}مسئله 3}{6}{Item.4}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax احراز هویت پیام‌های با طول مشخص توسط فرستنده}{6}{section*.8}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax محدودیت طول در سمت گیرنده}{6}{section*.9}%
+\contentsline {listofproblems}{\numberline {}مسئله 4}{7}{Item.10}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax نسخه اول}{7}{section*.10}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax نسخه دوم}{7}{section*.11}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax نسخه سوم}{8}{section*.12}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax راه حل نهایی}{8}{section*.13}%
+\contentsline {listofproblems}{\numberline {}مسئله 5}{9}{Item.14}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax روش‌های ترکیب \lr {MAC} و رمزنگاری}{9}{section*.14}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax محدوده اعمال \lr {MAC} روی بسته‌های شبکه}{9}{section*.15}%
+\contentsline {listofproblems}{\numberline {}مسئله 6}{10}{Item.20}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax استخراج فرمول‌های بازیابی}{10}{section*.16}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax محاسبه کلید خصوصی}{10}{section*.17}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax مکانیزم استاندارد جلوگیری از استفاده مجدد \lr {Nonce}}{11}{section*.18}%
+\contentsline {listofproblems}{\numberline {}مسئله 7}{12}{section*.18}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax ۱.۷ تحلیل دامنه نفوذ}{12}{section*.19}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax ۲.۷ ابطال گواهی‌های جعل‌شده}{12}{section*.20}%
+\contentsline {listofproblems}{\numberline {}\hskip 1em\relax ۳.۷ بهبودهای پیشنهادی معماری \lr {PKI}}{13}{section*.21}%
